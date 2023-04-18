@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    background-color: #3a0097;
+    font-size: 30px;
+    margin: 40px;
+    color: #ffffff;
+    line-height: 30px;
+  }
+  
+  .light {
+    color: #ffffff;
+  }
+  
+  .text-in {
+    font-size: 30px;
+    margin-top: 30px;
+    width: 45px;
+    border: none;
+  }
+  
+  #text-glsl {
+    width: 400px;
+    height: 25px;
+  }
+  

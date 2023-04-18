@@ -15,7 +15,7 @@ function glToHex(glslStr) {
 }
 
 function hexToGL(hexStr) {
-  console.log('hexToGL');
+  console.log('AstaXisvideo');
   //check if valid hex value
   if (/^#([0-9A-F]{3}){1,2}$/i.test(hexStr)) {
     let col = new Color(hexStr);
